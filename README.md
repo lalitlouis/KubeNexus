@@ -1,1 +1,2 @@
-# KubeNexus
+# KubeDebugger
+Kubernetes Debugging GUI 
